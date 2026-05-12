@@ -1,2 +1,4 @@
-# invasive-species-data-visualization
-High school CS capstone project
+# data-visualizations
+High school CS capstone project:
+- invasive species
+- election map
